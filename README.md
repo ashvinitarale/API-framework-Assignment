@@ -1,5 +1,4 @@
-# zyte-assignment
-This repo contain solution for zyte QA assignment.
+# API-framework-assignment
 Please find manual testcases on follwing link
 https://docs.google.com/spreadsheets/d/1Y87En593jYUbwHs_PCDxycE8be0QQCqdZrtaRc6hs3c/edit?usp=sharing
 
